@@ -16,8 +16,8 @@
 (function(){
   'use strict';
   const CFG = {
-    githubUser: 'YOUR_GITHUB_USERNAME',
-    githubRepo: 'fusion-loader-modules',
+    githubUser: 'linxuchen',
+    githubRepo: 'Fusion-v3.1g5',
     githubBranch: 'main',
     useJsDelivr: true,
     modulePath114: 'modules/module_114_bili_ig_yt.js',
